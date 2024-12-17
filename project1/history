@@ -1,0 +1,473 @@
+50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim 
+   73  touch test.txt
+   74  c ..
+   75  vim file1.txt
+   76  vim
+   77  `no
+   78  n
+   79          clear
+   80  clear
+   81  vim
+   82  mkdir clound
+   83  cd clound
+   84  clear
+   85  cd ..
+   86  clear
+   87  nano file.txt
+   88  cat > file.txt
+   89  clear
+   90  cat > file.txt
+   91  clear
+   92  cd /
+   93  cd home
+   94  cd Desktop
+   95  cd skacas
+   96  ok enter into the administrator
+   97  clea r
+   98  clear
+   99  cd..
+  100  cd ..
+  101  clear
+  102  cd ..
+  103  cd  ...
+  104  clear
+  105  cd clond
+  106  clear
+  107  cd \
+  108  clear
+  109  cd /
+  110  clear
+  111  cd /
+  112  ls
+  113  cd home
+  114  cd skacas
+  115  cd administrator
+  116  ls 
+  117  cd clound
+  118  clear
+  119  vim
+  120  ll file.txt
+  121  ls -l
+  122  ls -al
+  123  ls -ld
+  124  ll -file.txt
+  125  the the the the the the the he the the the the the the the the the the the the the the the the the the the the the th the the the the the the ht th ethe the the the the the the the he the the tclea
+  126  clear
+  127  cat etc/passwd
+  128  clear
+  129  cat /etc /passwd
+  130  cat /etc/passwd
+  131  cd Desktop
+  132  cd ..
+  133  cd Desktop
+  134  ls -ld dir1
+  135  clear
+  136  cat /etc/passwd
+  137  clear
+  138  cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccd /
+  139  cd /
+  140  ls
+  141  cd home
+  142  ls
+  143  cd administrator
+  144  cd root
+  145  ls
+  146  clear
+  147  ls
+  148  cd home
+  149  ls
+  150  cd administrator
+  151  cd Desktop
+  152  cd clound
+  153  cd ..
+  154  cd clound
+  155  cd ..
+  156  mkdir cloud
+  157  cd Desktop
+  158  cd cloud
+  159  cd ..
+  160  cd cloud
+  161  clear
+  162  cd ..
+  163  clear
+  164  cd ..
+  165  clear
+  166  cd /
+  167  ls
+  168  cd home
+  169  ls 
+  170  cd administrator
+  171  ls
+  172  cd Desktop
+  173  mkdir cloud
+  174  cd cloud
+  175  touch file.txt
+  176  touch file1.txt
+  177  sudo /etc/passwd
+  178  cd /
+  179  clear
+  180  cd /
+  181  sudo useradd suriya
+  182  cd /
+  183  sudo useradd suriya
+  184  su suriya
+  185  sudo passwd suriya
+  186  forget
+  187  cat /etc/passwd
+  188  su suriya
+  189  /
+  190  cd /
+  191  ls
+  192  cd home
+  193  ls
+  194  cd administrator
+  195  cd Desktop
+  196  touch siva1.txt
+  197  sudo userdel-f suriya
+  198  sudo userdel -f suriya
+  199  cat /etc/passwd
+  200  clear
+  201  nano file.txt
+  202  nano script.txt
+  203  clear
+  204  the fiqunt the variable today and the  the passes the input tio the inconthe the the the the the the the the the the the the the the the thr th ehte h h the the the the the the the the the the the the the the the te 
+  205  nano  script.ch
+  206  clear
+  207  nano script.ch
+  208  ps
+  209  pa /
+  210  ps /
+  211  clear
+  212  pd
+  213  clear
+  214  ps
+  215  PID TTY          TIME CMD
+  216  clear
+  217  nano script.sh
+  218  nano script.ch
+  219  script/ script.sh
+  220  ./script.ch
+  221  ./script.sh
+  222  nano script.ch
+  223  ./script.sh
+  224  nano script.ch
+  225  ./script.ch
+  226  nano script.ch
+  227  nano script.sh
+  228  ./script.sh
+  229  clear
+  230  nano script.sh
+  231  ./script.sh
+  232  clear
+  233  script/ script.sh
+  234  clear
+  235  sudo apt update
+  236  sudo apt install git
+  237  git --version
+  238  cd /
+  239  ls
+  240  cd home
+  241  cd administrator
+  242  ls 
+  243  cd Desktop
+  244  ls
+  245  cd cloud
+  246  git --version
+  247  cd cloud
+  248  git init
+  249  git config --list
+  250  git config --global user.name "suriya"
+  251  git config --list
+  252  git config --global init.defaultbranch main
+  253  cd ..
+  254  cd cloud
+  255  git config --global init.defaultBranch main
+  256  git config --list
+  257  git config --global user.gamil "24bsitsivasuriyavelm@ac.in"
+  258  git config --global user.gamil "24bsitsivasuriyavelm@skacas.ac.in"
+  259  git config --list
+  260  git config --global init.defaultBranch main
+  261  git config --list
+  262  git config --global core.eol lf
+  263  git config --list
+  264  git config --global core.autocrlf inpunt
+  265  git config --global core.autocrlf input
+  266  git config --list
+  267  clear
+  268  ls
+  269  git config --list
+  270  ls
+  271  git config --list
+  272  ls
+  273  git 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
+  274  git clone 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
+  275  git clone https://github.com/suriya723/sivasuriya.git
+  276  ls
+  277  cd sivasuriya
+  278  touch file.txt
+  279  ls
+  280  git add file.txt
+  281  cat > file.txt
+  282  git commit -m "first commit"
+  283  git config --global user.email --24bsitsivasuriyavelm@skacas.ac.in
+  284  git config --global user.email "24bsitsivasuriyavekm@skacas.ac.in"
+  285  git config --global user.name "suriya"
+  286  git commit -m "first commit"
+  287  git config --global user.email "24bsitsivasuriyavekm@skacas.ac.in"
+  288  git config --global user.name "suriya"
+  289  git commit -m "first commit"
+  290  clear
+  291  cd /
+  292  ls
+  293  cd home
+  294  cd administrator
+  295  ls
+  296  cd Desktop
+  297  cd cloud
+  298  git config --global user.email "24bsitsivasuriyavekm@skacas.ac.in"
+  299  git config --global user.name "suriya"
+  300  git add file.txt
+  301  ls
+  302  cd sivasuriya
+  303  git status
+  304  cd git add
+  305  cd "git add"
+  306  cd sivasuriya
+  307  ls
+  308  git clone https://github.com/suriya723/sivasuriya.git
+  309  ls
+  310  cd /
+  311  ls
+  312  cd home
+  313  ls
+  314  cd administrator
+  315  ls
+  316  cd Desktop
+  317  cd cloud
+  318  ls
+  319  git --version
+  320  cd /
+  321  ls
+  322  cd cloud
+  323  clear
+  324  cd /
+  325  cd home
+  326  cd administrator
+  327  cd Desktop
+  328  cd cloud
+  329  git init
+  330  git --version
+  331  git init
+  332  git config --list
+  333  git config --global user.name "sivasuriya1"
+  334  git config --list
+  335  git config --global init.defaultbranch main
+  336  git config --global user.eamil "24bsitsivasuriyavelm@skacas.ac.in"
+  337  git config --list
+  338  git config --global init.defaultBranch main
+  339  git config --global core.eol lf
+  340  git config --global core.autocrlf input
+  341  git config --list
+  342  clear
+  343  git config --global user.name "sivasuriya1"
+  344  git config --global init.defaultbranch main
+  345  git clone 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
+  346  clear
+  347  git add file.txt
+  348  mkdir file1.txt
+  349  git add file1.txt
+  350  git config --global user.name "sivasuriya1"
+  351  git status
+  352  clear
+  353  git init
+  354  ls
+  355  cd ..
+  356  mkdir gittest
+  357  cd gittest
+  358  git clone "
+  359  git clone "https://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@github.com/suriya723/sivasuriya1"
+  360  touch file1.txt
+  361  git add
+  362  git add 
+  363  git add file1.txt
+  364  git commit -m main
+  365  git push origin main
+  366  clear
+  367  cd ..
+  368  history
+  369  clear
+  370  cd /
+  371  ls
+  372  cd home
+  373  ls
+  374  cd administrator
+  375  ls
+  376  cd Desktop
+  377  mkdir api_gateway
+  378  cd api_gateway
+  379  touch file1.txt
+  380  touch file2.txt
+  381  touch file3.txt
+  382  touch file4.txt
+  383  touch file5.txt
+  384  touch file6.txt
+  385  touch file7.txt
+  386  touch file8.txt
+  387  touch file9.txt
+  388  touch file10.txt
+  389  touch file11.txt
+  390  touch file12.txt
+  391  clear
+  392  cd ..
+  393  clear
+  394  cd //
+  395  cd ..
+  396  cd /
+  397  ls
+  398  cd home
+  399  cd administator
+  400  ls
+  401  cd administrator
+  402  cd Desktop
+  403  ls
+  404  mkdir api_gateway
+  405  cd api_gateway
+  406  mkdir january.txt                                                                                                                                                                                                                                                                                                                                                      
+  407  mkdir january
+  408  mkdir february
+  409  mkdir march
+  410  mkdir april
+  411  mkdir may
+  412  mkdir june
+  413  mkdir july
+  414  mkdir aguest
+  415  mkdir september
+  416  mkdir octember
+  417  mkdir november
+  418  mkdir december
+  419  cd january
+  420  touch log_day_1.txt
+  421  touch config_week_1.json
+  422  cd ..
+  423  cd february
+  424  touch log_day_1.txt
+  425  touch config_week_1.json
+  426  cd ..
+  427  cd march
+  428  touch log_day_1.txt
+  429  touch config_week_1.json
+  430  cd ..
+  431  cd april
+  432  touch log_day_1.txt
+  433  touch config_week_1.json
+  434  cd ..
+  435  cd may
+  436  touch log_day_1.txt
+  437  touch config_week_1.json
+  438  cd ..
+  439  cd june
+  440  touch log_day_1.txt
+  441  touch config_week_1.json
+  442  cd ..
+  443  cd july 
+  444  touch log_day_1.txt
+  445  touch config_week_1.json
+  446  cd ..
+  447  cd aguest
+  448  touch log_day_1.txt
+  449  touch config_week_1.json
+  450  cd ..
+  451  cd september
+  452  touch log_day_1.txt
+  453  touch config_week_1.json
+  454  cd ..
+  455  cd octember
+  456  touch log_day_1.txt
+  457  touch config_week_1.json
+  458  cd ..
+  459  cd november
+  460  touch log_day_1.txt
+  461  touch config_week_1.json
+  462  cd ..
+  463  cd december
+  464  touch log_day_1.txt
+  465  touch config_week_1.json
+  466  cd ..
+  467  cd aguest
+  468  touch log_day_1.txt
+  469  touch config_week_1.json
+  470  cd ..
+  471  mv 
+  472  mv january 
+  473  clear
+  474  cd ..
+  475  mkdir project
+  476  cd project
+  477  mkdir task.txt
+  478  cd task.txt
+  479  mkdir task1.txt
+  480  cd task1.txt
+  481  cat > task1.txt
+  482  cd /
+  483  cd home
+  484  cd administrator
+  485  cd Desktop
+  486  ls
+  487  clear
+  488  history
+  489  cd /
+  490  cd home
+  491  cd administrator
+  492  cd Desktop
+  493  cat api_gateway
+  494  cat
+  495  cat api_gateway
+  496  history
+  497  cd /
+  498  cd home
+  499  cd administrator
+  500  cd Desktop
+  501  cd january
+  502  cat january
+  503  cat / april
+  504  cat > january
+  505  cat < january
+  506  cd .
+  507  clear
+  508  history
+  509  cd /
+  510  cd home
+  511  cd administrator
+  512  cd Desktop
+  513  cd ./
+  514  cd /
+  515  cd home
+  516  cd administrator
+  517  cd Desktop
+  518  mkdir project1
+  519  clear
+  520  cd ..
+  521  history
+
